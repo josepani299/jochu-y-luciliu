@@ -1,0 +1,147 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* Parte del inicio */
+
+#primera {
+  background-color: #87CEEB;
+  width: auto;
+  height: auto;
+  border: 5px;
+  padding: 5px;
+  margin: 10px;
+  
+
+}
+
+/* imgaen de persona, breve descripcion, cuadrados */
+
+.Segunda {
+  background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/35/mesh-1430107_1280.png);
+  width: auto;
+  border: 15px;
+  padding: 50px;
+  margin: 10px;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.cuadrado {
+  width: auto;
+  height: auto;
+  border: 1px;
+  padding: 2px;
+  margin: 10px;
+  background-color: rgba(0, 0, 0, 0.63);
+  color: azure;
+}
+
+/* Tres columnas */
+
+.emo {
+  font: size 12px;
+  ;
+  margin: 0px;
+  align-self: center;
+}
+
+.cuatro {
+  width: auto;
+  height: auto;
+  border: 3px;
+  padding: 5px;
+  margin: 0px;
+  background-color: white;
+
+
+}
+
+
+.cuatro h3 {
+  text-align: center;
+}
+
+#caja1 {
+  width: auto;
+  height: auto;
+  padding: 10px;
+
+  margin: 10px;
+}
+
+#objpro {
+  text-align: center;
+  font-size: 24px;
+}
+
+#cajag {
+  width: auto;
+  height: auto;
+  padding: 50px;
+  border: 0px;
+  margin: 10px;
+  background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/35/mesh-1430107_1280.png);
+}
+
+
+
+#general {
+  background-image: url(https://img.freepik.com/vector-premium/fondo-textura-blanca-poligonal-flechas_23-2148427610.jpg?w=2000);
+  margin: 0px;
+}
+
+#cajag2 {
+
+  margin: 10px;
+
+}
+
+#js {
+  background-color: rgb(127, 214, 255);
+  align-content: center;
+  text-align: center;
+  margin: 10px;
+  width: auto;
+  height: auto;
+  font-family: 'Nanum Myeongjo';
+
+
+}
+
+.boton {
+
+  color: #fff;
+  background-color: #59B0E5;
+  border: 1px solid #0074a5;
+  border-top: 1px solid #004370;
+  border-left: 1px solid #004370;
+  cursor: pointer;
+}
+
+.imagen {
+  width: 150px;
+  height: auto;
+  
+  text-align: center;
+}
+
+
+.imagen.ampliada {
+width: 250px;
+height: auto;
+background-color: aliceblue;
+border: #87CEEB;
+margin: 2px;
+padding: 2px;
+}
+
+#modificar {
+  margin: 2px;
+  background-color:white;
+  border: #0074a5;
+  padding: 2px;
+}
